@@ -38,3 +38,9 @@ Technologies & Packages Used
 -  Gap (Spacing)
 
   Custom Widgets for reusable components
+
+  Development Environment
+
+Flutter Version: 3.35.4 (Stable Channel)
+
+Dart Version: 3.9.2
